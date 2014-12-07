@@ -1,0 +1,16 @@
+Due to some issues with github I am unable to upload the png files to the github repo.
+Here are third party links to verify the output png files
+
+plot1.png
+http://s28.postimg.org/rve3gbakd/plot1.png
+
+plot2.png
+http://s30.postimg.org/pt7yn7nxt/plot2.png
+
+plot3.png
+http://s30.postimg.org/cital6c4x/plot3.png
+
+plot4.png
+http://s27.postimg.org/wnggumzs3/plot4.png
+
+On running the codes, you shall get the same pngs.
